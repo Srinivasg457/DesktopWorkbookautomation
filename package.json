@@ -1,0 +1,21 @@
+{
+  "name": "electron-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "electron": "^36.2.0",
+    "electron-chromedriver": "^34.5.5",
+    "playwright": "^1.52.0"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.32.0"
+  }
+}
