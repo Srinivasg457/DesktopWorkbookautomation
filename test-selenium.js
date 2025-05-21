@@ -259,7 +259,7 @@ await passwordField.sendKeys('Shree@1234');
 });
 
 
-  const a= 2;
+
 // const puppeteer = require('puppeteer-core');
 
 // (async () => {
